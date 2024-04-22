@@ -47,6 +47,22 @@
       "type": "income",
       "createdAt": "2024-04-22T01:18:06.211Z",
       "id": "rS6egUA"
+    },
+    {
+      "category": "teste",
+      "description": "Teste",
+      "price": 9,
+      "type": "income",
+      "createdAt": "2024-04-22T13:55:20.772Z",
+      "id": "nJ74Scx"
+    },
+    {
+      "category": "teste",
+      "description": "Teste",
+      "price": 6,
+      "type": "income",
+      "createdAt": "2024-04-22T13:55:29.469Z",
+      "id": "G5eCF84"
     }
   ]
 }
