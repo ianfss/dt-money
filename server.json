@@ -23,6 +23,30 @@
       "category": "Alimentação",
       "price": 120,
       "createdAt": "2024-04-21T20:55:24.575Z"
+    },
+    {
+      "category": "teste",
+      "description": "Teste",
+      "price": 11,
+      "type": "income",
+      "createdAt": "2024-04-22T01:04:03.789Z",
+      "id": "fj72UFZ"
+    },
+    {
+      "category": "teste",
+      "description": "Reset",
+      "price": 111,
+      "type": "outcome",
+      "createdAt": "2024-04-22T01:08:45.739Z",
+      "id": "aE_oiSy"
+    },
+    {
+      "category": "teste",
+      "description": "Teste",
+      "price": 7,
+      "type": "income",
+      "createdAt": "2024-04-22T01:18:06.211Z",
+      "id": "rS6egUA"
     }
   ]
 }
